@@ -1,2 +1,6 @@
-.env
+# Ne pas pousser les modules et secrets
 node_modules/
+.env
+dist/
+.vscode/
+.DS_Store
